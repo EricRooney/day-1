@@ -1,0 +1,16 @@
+h1.text-red {
+  color: green;
+  display: block;
+  font-size: 15em;
+  margin: 0;
+}
+
+.text-red {
+  color: red;
+  background-color: blue;
+}
+
+#second {
+  color: black;
+  background-color: unset;
+}
